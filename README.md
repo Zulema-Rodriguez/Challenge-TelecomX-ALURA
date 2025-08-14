@@ -17,6 +17,7 @@ A través de un análisis detallado de datos, se busca generar insights accionab
 notebooks/ → Análisis exploratorio y visualizaciones.
 src/ → Código fuente organizado por módulos.
 README.md → Documento de descripción del proyecto.
+
 ---
 
 🛠 Tecnologías Utilizadas
@@ -25,6 +26,7 @@ Pandas: Manipulación de datos.
 NumPy: Cálculos numéricos.
 Matplotlib / Seaborn: Visualizaciones.
 Jupyter Notebook: Desarrollo y análisis interactivo.
+
 ---
 
 📊 Principales Hallazgos
@@ -32,6 +34,7 @@ Jupyter Notebook: Desarrollo y análisis interactivo.
 Contratos mes a mes presentan la mayor tasa de evasión.
 Los clientes con fibra óptica y pagos por cheque electrónico tienen mayor probabilidad de cancelación.
 Cargos mensuales altos se asocian con mayor rotación de clientes.
+
 ---
 
 🎯 Recomendaciones
