@@ -13,14 +13,16 @@ A través de un análisis detallado de datos, se busca generar insights accionab
 
 ---
 
-📂 Estructura del Proyecto
-notebooks/ → Análisis exploratorio y visualizaciones.
-src/ → Código fuente organizado por módulos.
-README.md → Documento de descripción del proyecto.
+📂 Estructura del Proyecto:
+
+notebooks: Análisis exploratorio y visualizaciones.
+src: Código fuente organizado por módulos.
+README.md : Documento de descripción del proyecto.
 
 ---
 
-🛠 Tecnologías Utilizadas
+🛠 Tecnologías Utilizadas:
+
 Python 
 Pandas: Manipulación de datos.
 NumPy: Cálculos numéricos.
@@ -29,7 +31,8 @@ Jupyter Notebook: Desarrollo y análisis interactivo.
 
 ---
 
-📊 Principales Hallazgos
+📊 Principales Hallazgos:
+
 1 de cada 4 clientes canceló el servicio.
 Contratos mes a mes presentan la mayor tasa de evasión.
 Los clientes con fibra óptica y pagos por cheque electrónico tienen mayor probabilidad de cancelación.
@@ -37,7 +40,8 @@ Cargos mensuales altos se asocian con mayor rotación de clientes.
 
 ---
 
-🎯 Recomendaciones
+🎯 Recomendaciones:
+
 1. Incentivar contratos a largo plazo mediante beneficios o descuentos.
 2. Revisar precios y condiciones del servicio de fibra óptica.
 3. Promover métodos de pago automáticos.
@@ -70,5 +74,4 @@ jupyter notebook notebooks/analisis_churn.ipynb
 
 ---
 
-Si quieres, puedo también prepararte una versión de README con emojis, formato atractivo y enlaces a los notebooks para que luzca mucho más profesional y fácil de navegar en GitHub ✨.
-¿Quieres que lo arme así?
+
